@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 로봇의 정의
+date: 2020-02-27
 tags: [Robotics, Theory]
 background: '/img/200227_Robot_chaos_map.png'
 ---
