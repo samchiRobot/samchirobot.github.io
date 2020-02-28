@@ -29,6 +29,12 @@ theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 author: samchirobot
+
+paginate: 5
+paginate_path: "/posts/page:num/"
+permalink: "/:year/:month/:day/:title/"
+
+encoding: utf-8
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
