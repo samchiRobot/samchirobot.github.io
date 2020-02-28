@@ -2,12 +2,9 @@
 layout: post
 title: "[Robotics] 로봇의 정의"
 date: 2020-02-27
-category: Robotics
 tags: [Robotics, Theory]
 background: '/img/200227_Robot_chaos_map.png'
 ---
-
-## 로봇의 정의
 
 ## 로봇은 무엇인가?
 
