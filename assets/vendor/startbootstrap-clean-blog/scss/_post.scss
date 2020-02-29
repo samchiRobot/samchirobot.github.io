@@ -32,8 +32,8 @@
       }
     }
   }
+
   @media only screen and (min-width: 768px) {
-    @include sans-serif-font;
     > a {
       > .post-title {
         font-size: 36px;
