@@ -57,7 +57,7 @@ header.masthead {
     }
     .subheading {
       font-size: 24px;
-      font-weight: 600;
+      font-weight: 400;
       margin: 10px 0 30px;
       @include sans-serif-font;
     }
@@ -65,7 +65,7 @@ header.masthead {
       font-size: 20px;
       font-weight: 300;
       font-style: italic;
-      @include serif-font;
+      @include sans-serif-font;
       a {
         color: $white;
       }

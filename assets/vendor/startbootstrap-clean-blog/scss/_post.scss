@@ -19,7 +19,7 @@
   }
   > .post-meta {
     font-size: 18px;
-    font-style: italic;
+    font-style: normal;
     margin-top: 0;
     color: $gray-600;
     > a {
@@ -33,6 +33,7 @@
     }
   }
   @media only screen and (min-width: 768px) {
+    @include sans-serif-font;
     > a {
       > .post-title {
         font-size: 36px;
