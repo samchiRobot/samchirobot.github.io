@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "[Robotics] 로봇의 정의"
+title: "로봇의 정의"
 date: 2020-02-27
+categories: [Robotics]
 tags: [Robotics, Theory]
 background: '/img/200227_Robot_chaos_map.png'
 ---
@@ -14,7 +15,7 @@ background: '/img/200227_Robot_chaos_map.png'
 
  로봇은 목적에 따라 설계되어 크기와 형태가 다양하다. 그렇기에 사람형태가 아닌 것이 많다.
 
-![2019 Robot chaos map[2]](/img/200227_Robot_chaos_map.png)
+![2019 Robot chaos map[2]](/img/200227_Robot_chaos_map.png "2019 Robot chaos map[2]")
 
 ## 로봇의 3요소
 
@@ -33,7 +34,7 @@ background: '/img/200227_Robot_chaos_map.png'
 
  각 항목은 매우 중요한 요소이므로 차근차근 정리할 것이다.  
 
-## 참고문헌
+## Reference
 
 [1] Definition of 'robot'. Oxford English Dictionary. Retrieved November 27, 2016.
 

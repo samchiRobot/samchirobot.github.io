@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "[Robotics] 인식(perception)"
+title: "인식 (Perception)"
 date: 2020-02-29
+categories: [Robotics]
 tags: [Robotics, Theory]
-background: '/img/mogura.png'
+background: '/img/mogura.jpg'
 ---
 
 로봇은 다양한 센서를 이용하여 주변 환경을 인식하고 신호처리를 통하여 유용한 정보로 만든다. (예시 : [ROS 지원센서](http://wiki.ros.org/Sensors))
