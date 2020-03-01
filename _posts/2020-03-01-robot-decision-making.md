@@ -30,9 +30,7 @@ background: '/img/mogura.jpg'
 - 해당 목적지까지 이동할 수 있는가?
 - 어느 경로로 가야 가장 효율적인가?
 
-![](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#/media/File:Dijkstras_progress_animation.gif)
-
-경로계획에 많이 쓰이는 알고리즘에는 [Dijkstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), [A\*](https://en.wikipedia.org/wiki/A*_search_algorithm), [RRT](https://en.wikipedia.org/wiki/Rapidly-exploring_random_tree)가 있다.
+경로계획에 많이 쓰이는 알고리즘에는 [Dijkstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm), [RRT](https://en.wikipedia.org/wiki/Rapidly-exploring_random_tree)가 있다.
 
 각 부분에 대한 자세한 내용은 다른 챕터에서 다룰 것이며, 이 페이지에 링크로 달아 계속 업데이트 할 예정이다.
 
