@@ -7,7 +7,9 @@ tags: [Robotics, Theory]
 background: '/img/mogura.jpg'
 ---
 
-로봇은 다양한 센서를 이용하여 주변 환경을 인식하고 신호처리를 통하여 유용한 정보로 만든다. (예시 : [ROS 지원센서](http://wiki.ros.org/Sensors))
+## 센서를 이용한 인식
+
+로봇은 다양한 센서를 이용하여 주변 환경을 인식하고 신호처리를 통하여 유용한 정보로 만든다. (예시 : [ROS에서 지원하는 센서](http://wiki.ros.org/Sensors))
 
 로봇은 사람과 같이 오감(시각, 청각, 촉각, 후각, 미각)을 갖고 느낄 수 있으며,
 
