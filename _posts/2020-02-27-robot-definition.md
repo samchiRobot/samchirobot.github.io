@@ -36,6 +36,5 @@ background: '/img/200227_Robot_chaos_map.png'
 
 ## Reference
 
-[1] Definition of 'robot'. Oxford English Dictionary. Retrieved November 27, 2016.
-
+[1] Definition of 'robot'. Oxford English Dictionary. Retrieved November 27, 2016.  
 [2] https://robo-lib.com/repositories/summary/134 
