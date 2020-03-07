@@ -8,6 +8,7 @@ background: '/img/mogura.jpg'
 ---
 
 ## Chromium ?
+
 Chromium은 오픈소스 웹브라우저 프로젝트 이며, Google Chrome은 해당 프로젝트를 기반으로 개발되었다.
 
 ### 설치방법 (Linux)
@@ -25,13 +26,11 @@ sudo apt install chromium-browser
 https://chromium.woolyss.com/download/ko/
 
 
-## 정보 [1]
-
-### 라이선스
+## 라이선스
 - 구글이 관여한 부분 : BSD
 - 다른 부분 : MIT, LGPL, GPL 등 여러 오픈소스 라이선스가 적용됨 
 
-### Google Chrome과 차이점
+## Google Chrome과 차이점
 Chrome에는 있지만 Chromium에 없는 것은 다음과 같다.
 - 구글 이름과 로고
 - 사용자 식별 인증키 설정 요구사항
