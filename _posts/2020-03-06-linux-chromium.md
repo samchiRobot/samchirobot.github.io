@@ -45,4 +45,4 @@ Chrome에는 있지만 Chromium에 없는 것은 다음과 같다.
 종합적으로 보면 Chromium이 Chrome보다 사용자 정보 수집이 적다는 점을 알 수 있다.
 
 ## Reference
-[1] https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A1%9C%EB%AF%B8%EC%97%84_(%EC%9B%B9_%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80)
+[1] [Wikipedia, "크로미움(웹브라우저)"](https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A1%9C%EB%AF%B8%EC%97%84_(%EC%9B%B9_%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80))
