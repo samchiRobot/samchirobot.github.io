@@ -20,13 +20,10 @@ sudo apt install chromium-browser
 ```
 
 ### 설치방법 (Windows)
-
-아래 링크에 들어가 exe파일 다운받아 설치
-
-https://chromium.woolyss.com/download/ko/
-
+[링크](https://chromium.woolyss.com/download/ko/)에 들어가 exe파일 다운받아 설치
 
 ## 라이선스
+오픈소스 라이선스이지만 조금 복잡하게 되어있다.
 - 구글이 관여한 부분 : BSD
 - 다른 부분 : MIT, LGPL, GPL 등 여러 오픈소스 라이선스가 적용됨 
 
