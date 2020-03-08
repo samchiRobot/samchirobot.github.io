@@ -15,13 +15,13 @@ theme_settings:
 
   # Header and footer text
   #header_text: >
-  #header_text_feature_image:
+  header_text_feature_image:
   #footer_text: >
   # Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "samchi.robot@gmail.com"
   behance:
   bitbucket:
   dribbble:
