@@ -6,9 +6,9 @@ url: "https://samchirobot.github.com"
 theme_settings:
   # Meta
   title: SamchiBase - 삼치의 로봇공방
-  avatar: assets/img/avatar.png
+  #avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
+  #gravatar: # Email MD5 hash
   description: "Covers the theory of robots and sensors and open-source based information"
   
  # used by search engines
@@ -17,7 +17,7 @@ theme_settings:
   #header_text: >
   header_text_feature_image:
   #footer_text: >
-  # Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+  Copyright 2020 Samchirobot
 
   # Icons
   rss: false
