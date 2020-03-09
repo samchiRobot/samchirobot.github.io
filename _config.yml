@@ -16,7 +16,7 @@ theme_settings:
   # Header and footer text
   #header_text: >
   header_text_feature_image:
-  #footer_text: >
+  footer_text: >
   Copyright 2020 Samchirobot
 
   # Icons
