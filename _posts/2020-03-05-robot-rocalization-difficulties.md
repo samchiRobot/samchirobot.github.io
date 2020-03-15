@@ -11,7 +11,8 @@ background: '/img/mogura.jpg'
 
 ## 1. Position tracking (local localization)
 로봇이 자신의 초기 위치를 안다고 가정하면, 움직이면서 자신의 위치를 추정하게 된다.
-하지만, 로봇은 움직일 때마다 항상 자신의 위치에 불확실성이 발생하여 위치추정에도 영향을 끼친다. 이러한 불확실성은 로봇의 주변 환경에만 국한되기에 local localization이라고도 불린다.
+하지만, 로봇은 움직일 때마다 항상 자신의 위치에 불확실성이 발생하여 위치추정에도 영향을 끼친다. 
+이러한 불확실성은 로봇의 주변 환경에만 국한되기에 local localization이라고도 불린다.
 
 ## 2. Global localization
 로봇이 자신의 초기 위치를 모른다고 가정하면, 로봇은 자신의 환경 정보와 ground truth map을 대조하여 자신의 위치를 추정해야한다.
