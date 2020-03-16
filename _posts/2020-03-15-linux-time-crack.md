@@ -32,5 +32,5 @@ sudo gedit /etc/default/rcS
 재부팅하면 설정 완료
 
 ## Reference
-[1] [https://www.tuwlab.com/ece/28472](https://www.tuwlab.com/ece/28472)
+[1] [https://www.tuwlab.com/ece/28472](https://www.tuwlab.com/ece/28472)  
 [2] [http://www.webupd8.org/2014/09/dual-boot-fix-time-differences-between.html](http://www.webupd8.org/2014/09/dual-boot-fix-time-differences-between.html)
