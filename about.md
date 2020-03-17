@@ -5,8 +5,15 @@ permalink: /about/
 feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+# SamchiBase - Samchi's Craft Workshop for Robots
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+## Introduction
+My blog is an archive that records the information I need as I develop.
+It mainly covers the theory of robots and sensors and information on open source based development. 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+## Policy
+This blog has been established for the purpose of recording and sharing knowledge. So I will comply with the following regulations.
+(Please tell me if there are any violations.)
+- Precise references
+- Concise information
+- Open-source based
